@@ -1,4 +1,4 @@
-# TZURONI — CrowdWisdomTrading Daily Ads AI Agent
+# CrowdWisdomTrading Daily Ads AI Agent
 
 A CrewAI-powered pipeline that researches top-performing Meta ads, extracts marketing insights, writes a 60-second ad script, generates a voiceover, and produces a Remotion video composition config.
 
